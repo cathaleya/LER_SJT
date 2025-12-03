@@ -6,7 +6,7 @@
     "pertanyaan": "Langkah konkret apa yang Anda ambil agar semua siswa tetap bisa belajar?",
     "opsi": {
       "A": "Tetap mewajibkan karena pendidikan butuh modal dan siswa harus berusaha.",
-      "B": "Strategi Pembedaan: Siswa punya kuota nonton di rumah, siswa tak punya kuota nonton di perpustakaan sekolah secara luring atau offline saat istirahat.",
+      "B": "Menyarankan Siswa yang punya kuota nonton di rumah, siswa tidak punya kuota nonton di perpustakaan sekolah secara langsung saat istirahat.",
       "C": "Membatalkan tugas video untuk semua siswa agar adil bagi yang tidak mampu.",
       "D": "Meminta siswa menumpang WiFi tetangga atau pergi ke balai desa untuk download."
     },
@@ -24,8 +24,8 @@
     "pertanyaan": "Bagaimana Anda mengatur penggunaan tablet tersebut secara adil?",
     "opsi": {
       "A": "Aplikasi tidak jadi dipakai karena jumlah tablet kurang memadai untuk seluruh siswa.",
-      "B": "Pilih aplikasi yang bisa dipakai bersama secara offline, rancang pembelajaran sistem rotasi agar semua dapat giliran.",
-      "C": "Minta siswa yang memiliki HP sendiri untuk membawanya agar menutupi kekurangan tablet.",
+      "B": "Pilih aplikasi yang bisa dipakai bersama secara tanpa kuota, rancang pembelajaran sistem rotasi agar semua mendapatkan giliran.",
+      "C": "Meminta siswa yang memiliki HP sendiri untuk membawanya agar menutupi kekurangan tablet.",
       "D": "Hanya siswa dengan peringkat 1-10 yang diizinkan menggunakan tablet sebagai reward."
     },
     "poin": {
@@ -43,7 +43,7 @@
     "opsi": {
       "A": "Membeli secara pribadi, lalu menjual hasil fotokopi modul tersebut kepada siswa.",
       "B": "Mencari versi bajakan di internet agar tidak perlu mengeluarkan biaya sama sekali.",
-      "C": "Cari Sumber Belajar Terbuka (gratis) berlisensi resmi, adaptasi sesuai kebutuhan.",
+      "C": "Mencari Sumber Belajar Terbuka yang gratis dan berlisensi resmi lalu mengadaptasinya sesuai kebutuhan.",
       "D": "Hanya mengeluh tentang fasilitas yang minim tanpa mencari solusi alternatif lain."
     },
     "poin": {
@@ -59,7 +59,7 @@
     "skenario": "Anda menyiapkan Presentasi interaktif, tapi proyektor sekolah ternyata dipakai guru lain dan baru kosong 2 jam lagi.",
     "pertanyaan": "Apa yang akan Anda lakukan untuk mengisi jam pelajaran tersebut?",
     "opsi": {
-      "A": "Ubah strategi jadi diskusi kelompok pakai laptop Anda sebagai pusat informasi bergilir.",
+      "A": "Mengubah strategi jadi diskusi kelompok pakai laptop Anda sebagai pusat informasi bergilir.",
       "B": "Membatalkan pelajaran interaktif dan kembali mencatat materi dari buku paket saja.",
       "C": "Marah kepada guru yang sedang memakai proyektor karena mengganggu jadwal Anda.",
       "D": "Menunggu di kelas sampai proyektor kosong meskipun harus membuang waktu pelajaran."
@@ -74,8 +74,8 @@
   {
     "id": "Q1.5",
     "dimensi": "Keterjangkauan (Affordability)",
-    "skenario": "Grup WA dipakai untuk info PR. Sebagian orang tua gaptek/HP jadul (tak punya WA) sehingga anak ketinggalan info.",
-    "pertanyaan": "Bagaimana cara Anda memastikan informasi sampai ke semua orang tua?",
+    "skenario": "Grup WA dipakai untuk informasi PR. Sebagian orang tua tidak paham teknologi atau tidak memiliki WA sehingga anak ketinggalan info.",
+    "pertanyaan": "Bagaimana cara Anda memastikan seluruh informasi sampai ke semua orang tua?",
     "opsi": {
       "A": "Mewajibkan semua orang tua untuk segera membeli HP Android agar bisa akses WA.",
       "B": "Membiarkan saja, karena itu adalah tanggung jawab orang tua untuk mencari informasi.",
@@ -92,11 +92,11 @@
   {
     "id": "Q2.1",
     "dimensi": "Inklusi Budaya (Cultural Inclusion)",
-    "skenario": "Video dari pemerintah mencontohkan proyek 'Pasar Sekolah' jualan Sandwich dan Burger. Siswa desa Anda asing dengan makanan itu.",
+    "skenario": "Video dari pemerintah mencontohkan proyek 'Pasar Sekolah' jualan Sandwich dan Cake. Siswa Anda merasa asing dengan makanan itu.",
     "pertanyaan": "Bagaimana Anda menyesuaikan materi tersebut dengan kondisi siswa?",
     "opsi": {
       "A": "Memaksa siswa membuat Sandwich agar mereka mengenal budaya makanan modern/barat.",
-      "B": "Ambil konsep 'Pasar Sekolah' (jual beli), tapi ganti produk jadi jajanan pasar lokal seperti getuk atau tiwul.",
+      "B": "Ambil konsep jual beli tetapi ganti produk jadi jajanan pasar lokal seperti pisang goreng atau bakso.",
       "C": "Membatalkan proyek tersebut karena dianggap terlalu sulit dan tidak relevan.",
       "D": "Hanya menjelaskan teori tentang Sandwich di kelas tanpa melakukan praktek langsung."
     },
@@ -115,7 +115,7 @@
     "opsi": {
       "A": "Melarang penggunaan permainan itu karena bahasanya sulit dipahami siswa.",
       "B": "Buat poster Kamus Kecil ikon tombol dan arti Indonesia di dinding, pandu di awal.",
-      "C": "Menerjemahkan instruksi secara lisan satu per satu kepada setiap siswa (melelahkan).",
+      "C": "Menerjemahkan instruksi secara lisan satu per satu kepada setiap siswa.",
       "D": "Menyuruh siswa menebak-nebak sendiri arti tombolnya tanpa bantuan guru."
     },
     "poin": {
@@ -131,10 +131,10 @@
     "skenario": "Ingin ajar lagu daerah. Di YouTube banyak versi remix DJ/Koplo yang menghilangkan estetika asli.",
     "pertanyaan": "Video seperti apa yang akan Anda pilih untuk diputar di kelas?",
     "opsi": {
-      "A": "Memutar versi remix DJ agar suasana kelas menjadi lebih semangat dan meriah.",
+      "A": "Memutar versi kompilasi agar suasana kelas menjadi lebih semangat dan meriah.",
       "B": "Luangkan waktu cari video versi asli atau tradisional berkualitas untuk tanamkan apresiasi benar.",
       "C": "Menyuruh siswa mencari sendiri video yang mereka sukai di HP masing-masing.",
-      "D": "Tidak menggunakan video sama sekali, cukup bernyanyi manual bersama-sama."
+      "D": "Tidak menggunakan video sama sekali, cukup bernyanyi serentak bersama-sama."
     },
     "poin": {
       "A": 1,
@@ -150,9 +150,9 @@
     "pertanyaan": "Tindakan apa yang akan Anda ambil terhadap siswa tersebut?",
     "opsi": {
       "A": "Menyita HP siswa tersebut dan memanggil polisi untuk memberikan efek jera.",
-      "B": "Bahas kasus di kelas tanpa sebut nama sebagai studi kasus Privasi dan Adat, buat kesepakatan kelas.",
+      "B": "Membahas kasus di kelas tanpa sebut nama sebagai studi kasus Privasi dan Adat, buat kesepakatan kelas.",
       "C": "Membiarkan saja tindakan tersebut agar guru terlihat gaul dan dekat dengan siswa.",
-      "D": "Melaporkan kejadian ini kepada Kepala Sekolah dan meminta agar siswa diskors."
+      "D": "Melaporkan kejadian ini kepada Kepala Sekolah dan meminta agar siswa dihukum."
     },
     "poin": {
       "A": 1,
@@ -182,7 +182,7 @@
   {
     "id": "Q3.1",
     "dimensi": "Kesejahteraan & Keamanan (Wellbeing & Safety)",
-    "skenario": "Ortu sering tanya PR di WA jam 10 malam. Mengganggu istirahat.",
+    "skenario": "Orangtua sering bertanya PR di WA jam 10 malam. Mengganggu istirahat Anda.",
     "pertanyaan": "Bagaimana Anda merespon situasi ini tanpa mengurangi profesionalisme?",
     "opsi": {
       "A": "Tulis aturan Jam Respon (07.00-16.00) di deskripsi grup, bisukan atau mute notifikasi di luar jam itu.",
@@ -200,11 +200,11 @@
   {
     "id": "Q3.2",
     "dimensi": "Kesejahteraan & Keamanan (Wellbeing & Safety)",
-    "skenario": "Rekan guru tempel kata sandi (password) akun belajar.id di monitor lab umum.",
+    "skenario": "Rekan guru menulis kata sandi akun belajar.id di monitor lab umum.",
     "pertanyaan": "Apa yang akan Anda katakan atau lakukan kepada rekan guru tersebut?",
     "opsi": {
       "A": "Bersikap masa bodoh karena keamanan akun adalah urusan masing-masing guru.",
-      "B": "Ikut mencatat password tersebut untuk berjaga-jaga jika dibutuhkan nanti.",
+      "B": "Ikut mencatat kata sandi tersebut untuk berjaga-jaga jika dibutuhkan nanti.",
       "C": "Tegur halus personal, jelaskan bahaya data bocor, sarankan cara aman.",
       "D": "Melaporkan kelalaian tersebut kepada operator sekolah agar rekan itu ditegur."
     },
@@ -218,12 +218,12 @@
   {
     "id": "Q3.3",
     "dimensi": "Kesejahteraan & Keamanan (Wellbeing & Safety)",
-    "skenario": "Stres (kelelahan mental) dikejar sertifikat pelatihan online dan tugas mengajar padat.",
+    "skenario": "Stres atau kelelahan mental dikejar sertifikat pelatihan online dan tugas mengajar padat.",
     "pertanyaan": "Langkah apa yang paling sehat untuk mengelola beban kerja Anda?",
     "opsi": {
       "A": "Membayar jasa joki untuk mengerjakan sertifikat agar Anda tidak perlu repot.",
       "B": "Mengabaikan persiapan mengajar di kelas demi mengejar target sertifikat PMM.",
-      "C": "Jadwalkan waktu khusus pelatihan (misal Sabtu), fokus penuh mengajar di jam sekolah.",
+      "C": "Jadwalkan waktu khusus pelatihan, fokus penuh mengajar di jam sekolah.",
       "D": "Terus-menerus mengeluh tentang beban kerja di status WhatsApp pribadi."
     },
     "poin": {
@@ -254,12 +254,12 @@
   {
     "id": "Q3.5",
     "dimensi": "Kesejahteraan & Keamanan (Wellbeing & Safety)",
-    "skenario": "Beredar berita bohong (hoax) penculikan anak di grup WA ortu, bikin panik.",
+    "skenario": "Beredar berita bohong atau hoax penculikan anak di grup WA ortu, bikin panik.",
     "pertanyaan": "Tindakan apa yang akan Anda lakukan di grup tersebut?",
     "opsi": {
       "A": "Ikut menyebarkan informasi tersebut agar semua orang tua waspada.",
       "B": "Diam saja dan tidak peduli, karena itu urusan orang tua murid.",
-      "C": "Cari klarifikasi resmi (Cek Fakta), posting info benar dengan bahasa menenangkan.",
+      "C": "Cari klarifikasi resmi, posting info benar dengan bahasa menenangkan.",
       "D": "Langsung menghapus pesan tersebut tanpa memberikan penjelasan apapun."
     },
     "poin": {
@@ -272,7 +272,7 @@
   {
     "id": "Q4.1",
     "dimensi": "Kemandirian Guru (Empowered Agency)",
-    "skenario": "Anda menemukan metode seru Kuis Mode Kertas (tanpa perangkat siswa). Rekan lain malas coba.",
+    "skenario": "Anda menemukan metode seru Kuis Mode Kertas tanpa perangkat. Rekan lain malas mencoba.",
     "pertanyaan": "Bagaimana cara Anda mengajak rekan guru lain untuk mencobanya?",
     "opsi": {
       "A": "Menggunakannya sendiri secara diam-diam agar kelas Anda terlihat paling unggul.",
@@ -290,11 +290,11 @@
   {
     "id": "Q4.2",
     "dimensi": "Kemandirian Guru (Empowered Agency)",
-    "skenario": "Buku TIK ajar cara pakai disket (usang).",
+    "skenario": "Buku TIK ada cara mengajar dan cara menggunakan disket.",
     "pertanyaan": "Apa keputusan Anda terkait materi ajar tersebut?",
     "opsi": {
       "A": "Tetap mengajar sesuai buku paket agar administrasi aman dan tidak repot.",
-      "B": "Jelaskan sejarah disket sekilas, lompat ajar penyimpanan awan (Cloud) atau Flashdisk (relevan).",
+      "B": "Jelaskan sejarah disket sekilas, lompat mengajar penyimpanan online atau Flashdisk.",
       "C": "Tidak mengajarkan bab itu sama sekali karena dianggap membuang waktu.",
       "D": "Menyuruh siswa mencari informasi sendiri di internet tentang materi tersebut."
     },
@@ -330,7 +330,7 @@
     "pertanyaan": "Langkah konstruktif apa yang akan Anda usulkan ke Kepala Sekolah?",
     "opsi": {
       "A": "Marah-marah kepada penjaga sekolah setiap kali internet terasa lambat.",
-      "B": "Catat jam macet, usul jadwal penggunaan bergilir per jenjang, ajukan ke KS.",
+      "B": "Mencatat jam macet, usul jadwal penggunaan bergilir per jenjang, ajukan ke KS.",
       "C": "Selalu menggunakan kuota data pribadi agar pekerjaan cepat selesai.",
       "D": "Berhenti menggunakan internet di sekolah dan kembali ke cara manual sepenuhnya."
     },
