@@ -6,7 +6,7 @@
     "pertanyaan": "Langkah konkret apa yang Anda ambil agar semua siswa tetap bisa belajar?",
     "opsi": {
       "A": "Tetap mewajibkan karena pendidikan butuh modal dan siswa harus berusaha.",
-      "B": "Strategi Pembedaan: Siswa punya kuota nonton di rumah, siswa tak punya kuota nonton di perpustakaan sekolah (luring/offline) saat istirahat.",
+      "B": "Strategi Pembedaan: Siswa punya kuota nonton di rumah, siswa tak punya kuota nonton di perpustakaan sekolah secara luring atau offline saat istirahat.",
       "C": "Membatalkan tugas video untuk semua siswa agar adil bagi yang tidak mampu.",
       "D": "Meminta siswa menumpang WiFi tetangga atau pergi ke balai desa untuk download."
     },
@@ -24,7 +24,7 @@
     "pertanyaan": "Bagaimana Anda mengatur penggunaan tablet tersebut secara adil?",
     "opsi": {
       "A": "Aplikasi tidak jadi dipakai karena jumlah tablet kurang memadai untuk seluruh siswa.",
-      "B": "Pilih aplikasi yang bisa dipakai bersama (offline), rancang pembelajaran stasiun (bergantian) agar semua dapat giliran.",
+      "B": "Pilih aplikasi yang bisa dipakai bersama secara offline, rancang pembelajaran sistem rotasi agar semua dapat giliran.",
       "C": "Minta siswa yang memiliki HP sendiri untuk membawanya agar menutupi kekurangan tablet.",
       "D": "Hanya siswa dengan peringkat 1-10 yang diizinkan menggunakan tablet sebagai reward."
     },
@@ -59,7 +59,7 @@
     "skenario": "Anda menyiapkan Presentasi interaktif, tapi proyektor sekolah ternyata dipakai guru lain dan baru kosong 2 jam lagi.",
     "pertanyaan": "Apa yang akan Anda lakukan untuk mengisi jam pelajaran tersebut?",
     "opsi": {
-      "A": "Ubah strategi jadi diskusi kelompok pakai laptop Anda sebagai 'pusat informasi' bergilir.",
+      "A": "Ubah strategi jadi diskusi kelompok pakai laptop Anda sebagai pusat informasi bergilir.",
       "B": "Membatalkan pelajaran interaktif dan kembali mencatat materi dari buku paket saja.",
       "C": "Marah kepada guru yang sedang memakai proyektor karena mengganggu jadwal Anda.",
       "D": "Menunggu di kelas sampai proyektor kosong meskipun harus membuang waktu pelajaran."
@@ -79,7 +79,7 @@
     "opsi": {
       "A": "Mewajibkan semua orang tua untuk segera membeli HP Android agar bisa akses WA.",
       "B": "Membiarkan saja, karena itu adalah tanggung jawab orang tua untuk mencari informasi.",
-      "C": "Info di WA tetap jalan, tapi buat juga 'Papan Info PR' fisik di gerbang atau tempel stiker di buku siswa.",
+      "C": "Info di WA tetap jalan, tapi buat juga Papan Info PR fisik di gerbang atau tempel stiker di buku siswa.",
       "D": "Meminta ketua kelas untuk menelepon teman-temannya satu per satu setiap sore."
     },
     "poin": {
@@ -96,7 +96,7 @@
     "pertanyaan": "Bagaimana Anda menyesuaikan materi tersebut dengan kondisi siswa?",
     "opsi": {
       "A": "Memaksa siswa membuat Sandwich agar mereka mengenal budaya makanan modern/barat.",
-      "B": "Ambil konsep 'Pasar Sekolah' (jual beli), tapi ganti produk jadi jajanan pasar lokal (getuk/tiwul).",
+      "B": "Ambil konsep 'Pasar Sekolah' (jual beli), tapi ganti produk jadi jajanan pasar lokal seperti getuk atau tiwul.",
       "C": "Membatalkan proyek tersebut karena dianggap terlalu sulit dan tidak relevan.",
       "D": "Hanya menjelaskan teori tentang Sandwich di kelas tanpa melakukan praktek langsung."
     },
@@ -114,7 +114,7 @@
     "pertanyaan": "Apa yang akan Anda lakukan untuk membantu siswa memahami aplikasi tersebut?",
     "opsi": {
       "A": "Melarang penggunaan permainan itu karena bahasanya sulit dipahami siswa.",
-      "B": "Buat poster 'Kamus Kecil' ikon tombol + arti Indonesia di dinding, pandu di awal.",
+      "B": "Buat poster Kamus Kecil ikon tombol dan arti Indonesia di dinding, pandu di awal.",
       "C": "Menerjemahkan instruksi secara lisan satu per satu kepada setiap siswa (melelahkan).",
       "D": "Menyuruh siswa menebak-nebak sendiri arti tombolnya tanpa bantuan guru."
     },
@@ -132,7 +132,7 @@
     "pertanyaan": "Video seperti apa yang akan Anda pilih untuk diputar di kelas?",
     "opsi": {
       "A": "Memutar versi remix DJ agar suasana kelas menjadi lebih semangat dan meriah.",
-      "B": "Luangkan waktu cari video versi asli/tradisional berkualitas untuk tanamkan apresiasi benar.",
+      "B": "Luangkan waktu cari video versi asli atau tradisional berkualitas untuk tanamkan apresiasi benar.",
       "C": "Menyuruh siswa mencari sendiri video yang mereka sukai di HP masing-masing.",
       "D": "Tidak menggunakan video sama sekali, cukup bernyanyi manual bersama-sama."
     },
@@ -150,7 +150,7 @@
     "pertanyaan": "Tindakan apa yang akan Anda ambil terhadap siswa tersebut?",
     "opsi": {
       "A": "Menyita HP siswa tersebut dan memanggil polisi untuk memberikan efek jera.",
-      "B": "Bahas kasus di kelas (tanpa sebut nama) sebagai studi kasus Privasi & Adat, buat kesepakatan kelas.",
+      "B": "Bahas kasus di kelas tanpa sebut nama sebagai studi kasus Privasi dan Adat, buat kesepakatan kelas.",
       "C": "Membiarkan saja tindakan tersebut agar guru terlihat gaul dan dekat dengan siswa.",
       "D": "Melaporkan kejadian ini kepada Kepala Sekolah dan meminta agar siswa diskors."
     },
@@ -167,7 +167,7 @@
     "skenario": "Tugas kliping budaya biasanya cuma salin-tempel (copy-paste) gambar internet. Anda ingin lebih bermakna.",
     "pertanyaan": "Bentuk penugasan seperti apa yang akan Anda berikan?",
     "opsi": {
-      "A": "Menerima tugas salin-tempel (copy-paste) asalkan tata letaknya rapi dan bersih.",
+      "A": "Menerima tugas salin-tempel atau copy-paste asalkan tata letaknya rapi dan bersih.",
       "B": "Minta siswa potret tradisi sekitar rumah pakai HP ortu, unggah ke galeri kelas dengan cerita sendiri.",
       "C": "Mewajibkan siswa menggambar tangan saja agar tidak perlu menggunakan internet.",
       "D": "Menyuruh siswa pergi ke warnet untuk mencari gambar yang berbeda dari teman."
@@ -185,7 +185,7 @@
     "skenario": "Ortu sering tanya PR di WA jam 10 malam. Mengganggu istirahat.",
     "pertanyaan": "Bagaimana Anda merespon situasi ini tanpa mengurangi profesionalisme?",
     "opsi": {
-      "A": "Tulis aturan 'Jam Respon' (07.00-16.00) di deskripsi grup, bisukan (mute) notifikasi di luar jam itu.",
+      "A": "Tulis aturan Jam Respon (07.00-16.00) di deskripsi grup, bisukan atau mute notifikasi di luar jam itu.",
       "B": "Terus membalas pesan kapan saja agar dianggap sebagai guru teladan yang berdedikasi.",
       "C": "Marah-marah di grup karena merasa waktu istirahat Anda terganggu oleh orang tua.",
       "D": "Keluar dari grup WhatsApp kelas agar tidak perlu membaca keluhan orang tua."
@@ -294,7 +294,7 @@
     "pertanyaan": "Apa keputusan Anda terkait materi ajar tersebut?",
     "opsi": {
       "A": "Tetap mengajar sesuai buku paket agar administrasi aman dan tidak repot.",
-      "B": "Jelaskan sejarah disket sekilas, lompat ajar penyimpanan awan (Cloud) / Flashdisk (relevan).",
+      "B": "Jelaskan sejarah disket sekilas, lompat ajar penyimpanan awan (Cloud) atau Flashdisk (relevan).",
       "C": "Tidak mengajarkan bab itu sama sekali karena dianggap membuang waktu.",
       "D": "Menyuruh siswa mencari informasi sendiri di internet tentang materi tersebut."
     },
