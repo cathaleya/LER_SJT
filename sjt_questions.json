@@ -3,7 +3,7 @@
     "id": "Q1.1",
     "dimensi": "Affordability",
     "skenario": "Anda mewajibkan siswa menonton video materi pengayaan di rumah. Namun, 5 orang tua siswa melapor bahwa mereka tidak sanggup membeli kuota data tambahan bulan ini.",
-    "pertanyaan": "Tindakan inklusif yang Anda ambil?",
+    "pertanyaan": "Langkah konkret apa yang Anda ambil agar semua siswa tetap bisa belajar?",
     "opsi": {
       "A": "Tetap mewajibkan karena pendidikan butuh modal.",
       "B": "Strategi Diferensiasi: Siswa punya kuota nonton di rumah, siswa tak punya kuota nonton di perpustakaan sekolah (offline) saat istirahat.",
@@ -21,7 +21,7 @@
     "id": "Q1.2",
     "dimensi": "Affordability",
     "skenario": "Sekolah mendapat bantuan tablet tapi jumlahnya terbatas (1 tablet untuk 3 siswa). Anda ingin menggunakan aplikasi matematika.",
-    "pertanyaan": "Strategi pengelolaan kelas Anda?",
+    "pertanyaan": "Bagaimana Anda mengatur penggunaan tablet tersebut secara adil?",
     "opsi": {
       "A": "Aplikasi tidak jadi dipakai karena tablet kurang.",
       "B": "Pilih aplikasi multi-user/offline, rancang pembelajaran stasiun (bergantian) agar semua dapat giliran.",
@@ -39,7 +39,7 @@
     "id": "Q1.3",
     "dimensi": "Affordability",
     "skenario": "Anda menemukan modul digital (PDF) sangat bagus tapi berbayar mahal. Sekolah tidak ada anggaran.",
-    "pertanyaan": "Solusi etis dan ekonomis?",
+    "pertanyaan": "Apa langkah alternatif yang legal (resmi) dan tetap hemat biaya?",
     "opsi": {
       "A": "Beli pribadi, jual fotokopi ke siswa.",
       "B": "Cari bajakan di internet.",
@@ -57,7 +57,7 @@
     "id": "Q1.4",
     "dimensi": "Affordability",
     "skenario": "Anda menyiapkan PPT interaktif, tapi proyektor sekolah ternyata dipakai guru lain dan baru kosong 2 jam lagi.",
-    "pertanyaan": "Respon fleksibilitas kognitif Anda?",
+    "pertanyaan": "Apa yang akan Anda lakukan untuk mengisi jam pelajaran tersebut?",
     "opsi": {
       "A": "Ubah strategi jadi diskusi kelompok pakai laptop Anda sebagai 'kios informasi' bergilir.",
       "B": "Batalkan pelajaran, catat buku paket.",
@@ -75,7 +75,7 @@
     "id": "Q1.5",
     "dimensi": "Affordability",
     "skenario": "Grup WA dipakai untuk info PR. Sebagian orang tua gaptek/HP jadul (tak punya WA) sehingga anak ketinggalan info.",
-    "pertanyaan": "Strategi komunikasi hibrid?",
+    "pertanyaan": "Bagaimana cara Anda memastikan informasi sampai ke semua orang tua?",
     "opsi": {
       "A": "Wajibkan ortu beli HP Android.",
       "B": "Biarkan, tanggung jawab ortu.",
@@ -93,7 +93,7 @@
     "id": "Q2.1",
     "dimensi": "Cultural Inclusion",
     "skenario": "Video PMM mencontohkan proyek 'Market Day' jualan Sandwich dan Burger. Siswa desa Anda asing dengan makanan itu.",
-    "pertanyaan": "Adaptasi kontekstual Anda?",
+    "pertanyaan": "Bagaimana Anda menyesuaikan materi tersebut dengan kondisi siswa?",
     "opsi": {
       "A": "Paksa buat Sandwich agar kenal modern.",
       "B": "Ambil konsep 'Market Day' (jual beli), tapi ganti produk jadi jajanan pasar lokal (getuk/tiwul).",
@@ -111,7 +111,7 @@
     "id": "Q2.2",
     "dimensi": "Cultural Inclusion",
     "skenario": "Game edukasi matematika di tablet berbahasa Inggris ('Next', 'Submit'). Siswa kelas rendah bingung.",
-    "pertanyaan": "Strategi scaffolding?",
+    "pertanyaan": "Apa yang akan Anda lakukan untuk membantu siswa memahami aplikasi tersebut?",
     "opsi": {
       "A": "Larang game itu.",
       "B": "Buat poster 'Kamus Kecil' ikon game + arti Indonesia di dinding, pandu di awal.",
@@ -129,7 +129,7 @@
     "id": "Q2.3",
     "dimensi": "Cultural Inclusion",
     "skenario": "Ingin ajar lagu daerah. Di YouTube banyak versi remix DJ/Koplo yang menghilangkan estetika asli.",
-    "pertanyaan": "Keputusan kurasi konten?",
+    "pertanyaan": "Video seperti apa yang akan Anda pilih untuk diputar di kelas?",
     "opsi": {
       "A": "Putar remix agar semangat.",
       "B": "Luangkan waktu cari video versi asli/tradisional berkualitas untuk tanamkan apresiasi benar.",
@@ -147,7 +147,7 @@
     "id": "Q2.4",
     "dimensi": "Cultural Inclusion",
     "skenario": "Siswa memotret guru diam-diam di kelas dijadikan stiker WA. Di budaya setempat ini sangat tidak sopan.",
-    "pertanyaan": "Respon edukatif?",
+    "pertanyaan": "Tindakan apa yang akan Anda ambil terhadap siswa tersebut?",
     "opsi": {
       "A": "Sita HP, panggil polisi.",
       "B": "Bahas kasus di kelas (tanpa sebut nama) sebagai studi kasus Privasi & Adat, buat kesepakatan kelas.",
@@ -165,7 +165,7 @@
     "id": "Q2.5",
     "dimensi": "Cultural Inclusion",
     "skenario": "Tugas kliping budaya biasanya cuma copy-paste Google Image. Anda ingin lebih bermakna.",
-    "pertanyaan": "Inovasi penugasan?",
+    "pertanyaan": "Bentuk penugasan seperti apa yang akan Anda berikan?",
     "opsi": {
       "A": "Terima copy-paste asal rapi.",
       "B": "Minta siswa potret tradisi sekitar rumah pakai HP ortu, unggah ke Padlet dengan narasi sendiri.",
@@ -183,7 +183,7 @@
     "id": "Q3.1",
     "dimensi": "Wellbeing & Safety",
     "skenario": "Ortu sering tanya PR di WA jam 10 malam. Mengganggu istirahat.",
-    "pertanyaan": "Manajemen batas profesional?",
+    "pertanyaan": "Bagaimana Anda merespon situasi ini tanpa mengurangi profesionalisme?",
     "opsi": {
       "A": "Tulis aturan 'Jam Respon' (07.00-16.00) di deskripsi grup, mute notifikasi di luar jam itu.",
       "B": "Balas terus agar teladan.",
@@ -201,7 +201,7 @@
     "id": "Q3.2",
     "dimensi": "Wellbeing & Safety",
     "skenario": "Rekan guru tempel password akun belajar.id di monitor lab umum.",
-    "pertanyaan": "Tindakan keamanan data?",
+    "pertanyaan": "Apa yang akan Anda katakan atau lakukan kepada rekan guru tersebut?",
     "opsi": {
       "A": "Masa bodoh.",
       "B": "Ikut catat.",
@@ -219,7 +219,7 @@
     "id": "Q3.3",
     "dimensi": "Wellbeing & Safety",
     "skenario": "Stres (burnout) dikejar sertifikat PMM dan tugas mengajar padat.",
-    "pertanyaan": "Strategi coping?",
+    "pertanyaan": "Langkah apa yang paling sehat untuk mengelola beban kerja Anda?",
     "opsi": {
       "A": "Bayar joki PMM.",
       "B": "Abaikan kelas demi PMM.",
@@ -237,7 +237,7 @@
     "id": "Q3.4",
     "dimensi": "Wellbeing & Safety",
     "skenario": "Siswa sering mengantuk di kelas karena main game online sampai subuh.",
-    "pertanyaan": "Intervensi guru?",
+    "pertanyaan": "Pendekatan apa yang akan Anda lakukan kepada siswa dan orang tuanya?",
     "opsi": {
       "A": "Marahi tiap mengantuk.",
       "B": "Undang ortu diskusi, ajarkan Parental Control (Family Link), buat kesepakatan dengan siswa.",
@@ -255,7 +255,7 @@
     "id": "Q3.5",
     "dimensi": "Wellbeing & Safety",
     "skenario": "Beredar hoax penculikan anak di grup WA ortu, bikin panik.",
-    "pertanyaan": "Peran literasi digital guru?",
+    "pertanyaan": "Tindakan apa yang akan Anda lakukan di grup tersebut?",
     "opsi": {
       "A": "Ikut sebar.",
       "B": "Diam saja.",
@@ -273,7 +273,7 @@
     "id": "Q4.1",
     "dimensi": "Empowered Agency",
     "skenario": "Anda menemukan metode seru Quizizz Paper Mode. Rekan lain malas coba.",
-    "pertanyaan": "Cara mengajak (influence)?",
+    "pertanyaan": "Bagaimana cara Anda mengajak rekan guru lain untuk mencobanya?",
     "opsi": {
       "A": "Pakai sendiri diam-diam.",
       "B": "Ajak rekan lihat kelas Anda saat main (bukti antusiasme siswa), baru tawarkan bantuan.",
@@ -291,7 +291,7 @@
     "id": "Q4.2",
     "dimensi": "Empowered Agency",
     "skenario": "Buku TIK ajar cara pakai disket (usang).",
-    "pertanyaan": "Keputusan kurikulum?",
+    "pertanyaan": "Apa keputusan Anda terkait materi ajar tersebut?",
     "opsi": {
       "A": "Ajar sesuai buku.",
       "B": "Jelaskan sejarah disket sekilas, lompat ajar Google Drive/Flashdisk (relevan).",
@@ -309,7 +309,7 @@
     "id": "Q4.3",
     "dimensi": "Empowered Agency",
     "skenario": "Dinas jarang adakan pelatihan TIK. Skill stagnan.",
-    "pertanyaan": "Agensi belajar?",
+    "pertanyaan": "Apa inisiatif Anda untuk tetap meningkatkan kompetensi diri?",
     "opsi": {
       "A": "Pasrah tunggu dinas.",
       "B": "Cari webinar gratis YouTube/PMM, gabung komunitas, praktek 1 ilmu baru per minggu.",
@@ -327,7 +327,7 @@
     "id": "Q4.4",
     "dimensi": "Empowered Agency",
     "skenario": "WiFi sekolah lemot saat peak hour. KS acuh.",
-    "pertanyaan": "Advokasi data?",
+    "pertanyaan": "Langkah konstruktif apa yang akan Anda usulkan ke Kepala Sekolah?",
     "opsi": {
       "A": "Marah-marah.",
       "B": "Catat jam macet, usul jadwal penggunaan bergilir per jenjang, ajukan ke KS.",
@@ -345,7 +345,7 @@
     "id": "Q4.5",
     "dimensi": "Empowered Agency",
     "skenario": "Ingin buat video profil sekolah tapi tak bisa edit.",
-    "pertanyaan": "Solusi kolaboratif?",
+    "pertanyaan": "Solusi kreatif apa yang akan Anda tempuh untuk menyelesaikan video ini?",
     "opsi": {
       "A": "Batalkan.",
       "B": "Jadi sutradara, rekrut siswa jago ngedit HP jadi tim teknis. Belajar dari siswa.",
