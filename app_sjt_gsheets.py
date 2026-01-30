@@ -6,7 +6,7 @@ import gspread
 from google.oauth2.service_account import Credentials
 
 # --- KONFIGURASI ---
-PAGE_TITLE = "Instrumen Kognitif Guru SD (EF-DLE-DE)"
+PAGE_TITLE = "🎓 Survei Kompetensi Digital & Literasi AI Calon Guru"
 DATA_FILE = "sjt_questions.json"
 SCOPE = [
     "https://www.googleapis.com/auth/spreadsheets",
@@ -59,7 +59,7 @@ def load_questions():
 
 def main():
     st.title(PAGE_TITLE)
-    st.markdown("### Berbasis Framework Digital Equity (EF-DLE-DE)")
+    st.markdown("### Survei Kompetensi Digital & Literasi AI Calon Guru")
     
     # Cek apakah secrets sudah disetting
     if "gcp_service_account" not in st.secrets:
@@ -68,8 +68,8 @@ def main():
 
     with st.expander("📝 Data Responden", expanded=True):
         nama = st.text_input("Nama Lengkap")
-        sekolah = st.text_input("Asal Sekolah")
-        pengalaman = st.selectbox("Lama Mengajar", ["< 5 Tahun", "5-10 Tahun", "> 10 Tahun"])
+        sekolah = st.text_input("Asal Universitas")
+        pengalaman = st.selectbox("Semester/Tingkat ", ["< 5 Semester", "3-6", "> 6 Semester"])
 
     questions = load_questions()
     if not questions: return
