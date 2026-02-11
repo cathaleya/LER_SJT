@@ -1,362 +1,354 @@
 [
     {
-        "id": "IDL1",
-        "dimensi": "Information & Data Literacy",
-        "skenario": "Anda sedang mengerjakan tugas akhir dan perlu mencari referensi akademik yang kredibel. Anda menemukan artikel yang judulnya sangat relevan tetapi diterbitkan di sebuah blog pribadi, bukan jurnal ilmiah.",
-        "pertanyaan": "Tindakan apa yang paling tepat?",
-        "opsi": {
-            "A": "Mengutip artikel tersebut karena informasinya relevan.",
-            "B": "Mencari referensi asli yang dikutip oleh blog tersebut di database jurnal.",
-            "C": "Menggunakan informasi tersebut tetapi tidak mencantumkannya di daftar pustaka.",
-            "D": "Mengabaikan informasi tersebut dan mencari di Wikipedia."
-        },
-        "poin": {
-            "A": 2,
-            "B": 4,
-            "C": 1,
-            "D": 0
+        "id": "TPACK1",
+        "dimensi": "AI Knowledge",
+        "pertanyaan": "Saya memahami prinsip dasar kerja kecerdasan buatan (AI).",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "IDL2",
-        "dimensi": "Information & Data Literacy",
-        "skenario": "Beredar informasi di grup WhatsApp kelas bahwa perkuliahan besok diliburkan. Informasi tersebut diteruskan berkali-kali tanpa sumber yang jelas.",
-        "pertanyaan": "Apa yang akan Anda lakukan?",
-        "opsi": {
-            "A": "Langsung percaya dan tidak datang kuliah besok.",
-            "B": "Menanyakan kebenaran informasi tersebut kepada ketua kelas atau dosen terkait.",
-            "C": "Meneruskan informasi tersebut ke teman lain agar mereka juga tahu.",
-            "D": "Mengabaikan pesan tersebut tanpa mencari tahu lebih lanjut."
-        },
-        "poin": {
-            "A": 0,
-            "B": 4,
-            "C": 1,
-            "D": 2
+        "id": "TPACK2",
+        "dimensi": "AI Knowledge",
+        "pertanyaan": "Saya mengetahui berbagai jenis aplikasi AI yang dapat digunakan dalam pembelajaran SD.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "IDL3",
-        "dimensi": "Information & Data Literacy",
-        "skenario": "Laptop Anda tiba-tiba rusak saat sedang mengerjakan tugas penting yang deadline-nya besok. File tugas tersebut hanya ada di harddisk laptop.",
-        "pertanyaan": "Untuk mencegah hal ini, kebiasaan apa yang seharusnya Anda lakukan?",
-        "opsi": {
-            "A": "Selalu menyimpan backup tugas di Flashdisk yang terpasang di laptop.",
-            "B": "Rutin melakukan sinkronisasi file penting ke layanan Cloud Storage (Google Drive/OneDrive).",
-            "C": "Membiarkan file hanya di laptop karena jarang rusak.",
-            "D": "Mengirim file ke email diri sendiri setiap kali selesai mengetik satu paragraf."
-        },
-        "poin": {
-            "A": 2,
-            "B": 4,
-            "C": 0,
-            "D": 3
+        "id": "TPACK3",
+        "dimensi": "AI Knowledge",
+        "pertanyaan": "Saya memiliki keterampilan teknis yang diperlukan untuk menggunakan aplikasi AI.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "IDL4",
-        "dimensi": "Information & Data Literacy",
-        "skenario": "Anda mengunduh aplikasi edit video baru yang meminta izin akses ke kontak, lokasi, dan galeri foto Anda, padahal fiturnya tidak memerlukan itu.",
-        "pertanyaan": "Bagaimana sikap Anda?",
-        "opsi": {
-            "A": "Langsung mengizinkan semua akses agar aplikasi bisa segera dipakai.",
-            "B": "Menolak izin akses yang tidak relevan atau membatalkan instalasi.",
-            "C": "Mengizinkan akses, lalu menghapus aplikasi setelah dipakai sekali.",
-            "D": "Memberikan rating buruk di toko aplikasi."
-        },
-        "poin": {
-            "A": 0,
-            "B": 4,
-            "C": 2,
-            "D": 1
+        "id": "TPACK4",
+        "dimensi": "AI Knowledge",
+        "pertanyaan": "Saya mampu mempelajari teknologi AI baru secara mandiri.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "IDL5",
-        "dimensi": "Information & Data Literacy",
-        "skenario": "Anda membaca artikel opini yang sangat menyudutkan salah satu teori pendidikan yang Anda pelajari. Artikel tersebut ditulis oleh tokoh yang tidak memiliki latar belakang pendidikan.",
-        "pertanyaan": "Bagaimana Anda menilai informasi ini?",
-        "opsi": {
-            "A": "Menerima opini tersebut sebagai fakta baru karena ditulis tokoh terkenal.",
-            "B": "Mengevaluasi argumennya dan membandingkan dengan 2-3 jurnal ilmiah terpercaya.",
-            "C": "Langsung menolak artikel tersebut karena penulisnya bukan ahli pendidikan.",
-            "D": "Mendiskusikannya di media sosial dengan emosional."
-        },
-        "poin": {
-            "A": 1,
-            "B": 4,
-            "C": 2,
-            "D": 0
+        "id": "TPACK5",
+        "dimensi": "Pedagogical Knowledge",
+        "pertanyaan": "Saya dapat menyesuaikan pembelajaran berdasarkan tingkat pemahaman siswa.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "COM1",
-        "dimensi": "Communication & Collaboration",
-        "skenario": "Kelompok Anda harus diskusi tugas, tetapi anggota sulit bertemu tatap muka karena jadwal bentrok.",
-        "pertanyaan": "Solusi paling efektif adalah?",
-        "opsi": {
-            "A": "Memaksa semua anggota meluangkan waktu di hari Minggu.",
-            "B": "Membatalkan diskusi dan mengerjakan tugas masing-masing.",
-            "C": "Mengusulkan diskusi virtual menggunakan Zoom atau Google Meet di malam hari.",
-            "D": "Diskusi lewat chat grup WhatsApp saja meskipun respon lambat."
-        },
-        "poin": {
-            "A": 1,
-            "B": 0,
-            "C": 4,
-            "D": 2
+        "id": "TPACK6",
+        "dimensi": "Pedagogical Knowledge",
+        "pertanyaan": "Saya mampu menggunakan berbagai strategi pembelajaran sesuai kebutuhan siswa.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "COM2",
-        "dimensi": "Communication & Collaboration",
-        "skenario": "Anda menemukan video tutorial pembelajaran yang sangat bagus di YouTube.",
-        "pertanyaan": "Apa yang sebaiknya dilakukan?",
-        "opsi": {
-            "A": "Menontonnya sendiri agar nilai Anda lebih bagus dari teman.",
-            "B": "Membagikan link video tersebut di grup kelas agar teman lain juga belajar.",
-            "C": "Mendownload video tersebut dan menjualnya ke teman.",
-            "D": "Hanya membagikan ke teman dekat (circle) saja."
-        },
-        "poin": {
-            "A": 1,
-            "B": 4,
-            "C": 0,
-            "D": 2
+        "id": "TPACK7",
+        "dimensi": "Pedagogical Knowledge",
+        "pertanyaan": "Saya dapat menilai hasil belajar siswa dengan berbagai cara.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "COM3",
-        "dimensi": "Communication & Collaboration",
-        "skenario": "Anda perlu menghubungi dosen pembimbing via WhatsApp untuk menanyakan revisi skripsi di jam 8 malam.",
-        "pertanyaan": "Cara komunikasi yang paling tepat adalah?",
-        "opsi": {
-            "A": "Langsung menelepon agar cepat direspon.",
-            "B": "Mengirim pesan singkat 'Pak, revisi saya sudah dikoreksi belum?'.",
-            "C": "Mengirim pesan sopan dengan salam, identitas, dan permohonan maaf mengganggu waktu istirahat.",
-            "D": "Menunggu besok pagi di jam kerja untuk mengirim pesan sopan."
-        },
-        "poin": {
-            "A": 1,
-            "B": 0,
-            "C": 3,
-            "D": 4
+        "id": "TPACK8",
+        "dimensi": "Pedagogical Knowledge",
+        "pertanyaan": "Saya mampu mengelola kelas secara efektif, dengan atau tanpa bantuan AI.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "COM4",
-        "dimensi": "Communication & Collaboration",
-        "skenario": "Kelompok Anda diminta membuat makalah bersama. Cara pengerjaan biasanya adalah file Word dikirim estafet dari satu orang ke orang lain.",
-        "pertanyaan": "Cara kerja yang lebih efisien di era digital adalah?",
-        "opsi": {
-            "A": "Tetap menggunakan cara lama biar aman.",
-            "B": "Menggunakan Google Docs/Office 365 agar semua bisa mengedit bersamaan secara real-time.",
-            "C": "Satu orang saja yang mengerjakan, yang lain bayar.",
-            "D": "Mengerjakan bab masing-masing lalu dicopy-paste manual di akhir."
-        },
-        "poin": {
-            "A": 1,
-            "B": 4,
-            "C": 0,
-            "D": 2
+        "id": "TPACK9",
+        "dimensi": "Content Knowledge",
+        "pertanyaan": "Saya memiliki pemahaman yang baik terhadap materi pelajaran SD yang saya ajarkan.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "COM5",
-        "dimensi": "Communication & Collaboration",
-        "skenario": "Di sebuah forum diskusi online kelas, ada teman yang berpendapat sangat berbeda dengan Anda mengenai isu pendidikan.",
-        "pertanyaan": "Respon yang tepat adalah?",
-        "opsi": {
-            "A": "Menyerang pendapatnya secara pribadi (ad hominem).",
-            "B": "Diam saja dan tidak peduli.",
-            "C": "Menyampaikan argumen balasan dengan data dan tetap menghormati pendapatnya.",
-            "D": "Melaporkan komentarnya ke admin agar dihapus."
-        },
-        "poin": {
-            "A": 0,
-            "B": 1,
-            "C": 4,
-            "D": 1
+        "id": "TPACK10",
+        "dimensi": "Content Knowledge",
+        "pertanyaan": "Saya memahami konsep-konsep inti dalam mata pelajaran yang saya ampu.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "AIL1",
-        "dimensi": "AI Literacy",
-        "skenario": "Anda mendapatkan tugas membuat rencana pembelajaran (RPP) yang inovatif.",
-        "pertanyaan": "Bagaimana Anda memanfaatkan AI (ChatGPT/Gemini)?",
-        "opsi": {
-            "A": "Meminta AI membuatkan RPP lengkap lalu langsung dikumpulkan.",
-            "B": "Menggunakan AI untuk mencari ide strategi pembelajaran, lalu menyusun RPP sendiri.",
-            "C": "Tidak menggunakan AI sama sekali karena takut dianggap curang.",
-            "D": "Meminta AI membuatkan RPP, lalu hanya mengubah nama sekolahnya."
-        },
-        "poin": {
-            "A": 1,
-            "B": 4,
-            "C": 2,
-            "D": 0
+        "id": "TPACK11",
+        "dimensi": "Content Knowledge",
+        "pertanyaan": "Saya mengetahui cara berpikir yang tepat dalam menjelaskan materi kepada siswa SD.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "AIL2",
-        "dimensi": "AI Literacy",
-        "skenario": "Anda mencoba bertanya ke ChatGPT tapi jawabannya terlalu umum dan tidak sesuai keinginan.",
-        "pertanyaan": "Langkah perbaikan apa yang Anda lakukan?",
-        "opsi": {
-            "A": "Marah dan menganggap AI itu bodoh.",
-            "B": "Berhenti menggunakan AI.",
-            "C": "Memperbaiki instruksi (prompt) dengan memberikan konteks dan detail yang lebih spesifik.",
-            "D": "Mengulang pertanyaan yang sama persis berkali-kali."
-        },
-        "poin": {
-            "A": 0,
-            "B": 1,
-            "C": 4,
-            "D": 1
+        "id": "TPACK12",
+        "dimensi": "Technological Pedagogical Knowledge",
+        "pertanyaan": "Saya dapat memilih alat AI yang sesuai dengan metode pembelajaran.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "AIL3",
-        "dimensi": "AI Literacy",
-        "skenario": "Anda menggunakan AI untuk mencari definisi sebuah konsep ilmiah. AI memberikan jawaban yang terdengar meyakinkan.",
-        "pertanyaan": "Sikap kritis Anda adalah?",
-        "opsi": {
-            "A": "Langsung mengutipnya karena AI pasti benar.",
-            "B": "Mengecek kembali ke buku atau jurnal untuk memastikan kebenaran definisinya.",
-            "C": "Menganggap jawaban AI selalu salah.",
-            "D": "Menanyakan ke teman apakah jawabannya benar."
-        },
-        "poin": {
-            "A": 0,
-            "B": 4,
-            "C": 1,
-            "D": 2
+        "id": "TPACK13",
+        "dimensi": "Technological Pedagogical Knowledge",
+        "pertanyaan": "Saya dapat menyesuaikan penggunaan AI untuk berbagai aktivitas belajar.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "AIL4",
-        "dimensi": "AI Literacy",
-        "skenario": "Kampus mengadakan lomba membuat media pembelajaran berbasis video animasi.",
-        "pertanyaan": "Bagaimana respon Anda terhadap teknologi pembuatan konten?",
-        "opsi": {
-            "A": "Merasa tidak mampu dan tidak ikut.",
-            "B": "Mencoba mempelajari tools AI video generator untuk membantu pembuatan konten.",
-            "C": "Membayar orang lain untuk membuatkan.",
-            "D": "Membuat video manual dengan merekam layar powerpoint saja."
-        },
-        "poin": {
-            "A": 0,
-            "B": 4,
-            "C": 0,
-            "D": 2
+        "id": "TPACK14",
+        "dimensi": "Technological Pedagogical Knowledge",
+        "pertanyaan": "Saya secara kritis mempertimbangkan dampak penggunaan AI dalam pembelajaran.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "AIL5",
-        "dimensi": "AI Literacy",
-        "skenario": "Teman Anda selalu menggunakan AI untuk menjawab semua soal kuis online tanpa membacanya.",
-        "pertanyaan": "Apa pandangan Anda tentang perilaku ini?",
-        "opsi": {
-            "A": "Itu cerdas, memanfaatkan teknologi untuk efisiensi.",
-            "B": "Itu merugikan diri sendiri karena tidak terjadi proses belajar (ketergantungan).",
-            "C": "Saya ingin ikut melakukannya agar nilai bagus.",
-            "D": "Biasa saja, itu urusan dia."
-        },
-        "poin": {
-            "A": 1,
-            "B": 4,
-            "C": 0,
-            "D": 2
+        "id": "TPACK15",
+        "dimensi": "Technological Content Knowledge",
+        "pertanyaan": "Saya memahami bagaimana AI dapat membantu penyampaian materi pelajaran.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "ETH1",
-        "dimensi": "Ethics & Safety",
-        "skenario": "Anda menemukan paragraf bagus di internet untuk makalah Anda. Anda lupa mencatat sumbernya.",
-        "pertanyaan": "Apa yang Anda lakukan saat menyusun daftar pustaka?",
-        "opsi": {
-            "A": "Mencari ulang sumber aslinya sampai ketemu baru mengutipnya.",
-            "B": "Mengakuinya sebagai tulisan sendiri karena tidak ada yang tahu.",
-            "C": "Menulis sumber asal-asalan.",
-            "D": "Menghapus paragraf tersebut daripada jadi plagiat."
-        },
-        "poin": {
-            "A": 4,
-            "B": 0,
-            "C": 1,
-            "D": 3
+        "id": "TPACK16",
+        "dimensi": "Technological Content Knowledge",
+        "pertanyaan": "Saya mengetahui keterbatasan AI dalam menjelaskan materi tertentu.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "ETH2",
-        "dimensi": "Ethics & Safety",
-        "skenario": "Dosen memberikan tugas esai individu. Anda menggunakan bantuan AI untuk memperbaiki tata bahasa (grammar).",
-        "pertanyaan": "Tindakan yang bertanggung jawab adalah?",
-        "opsi": {
-            "A": "Tidak memberitahu siapapun.",
-            "B": "Memberikan disclaimer/pernyataan bahwa AI digunakan untuk koreksi bahasa.",
-            "C": "Mengatakan bahwa AI yang menulis semuanya.",
-            "D": "Merasa bersalah dan menghapus semua koreksi AI."
-        },
-        "poin": {
-            "A": 2,
-            "B": 4,
-            "C": 1,
-            "D": 2
+        "id": "TPACK17",
+        "dimensi": "Technological Content Knowledge",
+        "pertanyaan": "Saya dapat memilih teknologi AI yang sesuai dengan karakter materi pelajaran.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "ETH3",
-        "dimensi": "Ethics & Safety",
-        "skenario": "Akun email kampus Anda menggunakan password '123456' agar mudah diingat.",
-        "pertanyaan": "Tindakan pengamanan yang tepat?",
-        "opsi": {
-            "A": "Biarkan saja selama belum di-hack.",
-            "B": "Mengganti password dengan kombinasi huruf, angka, simbol dan mengaktifkan 2FA.",
-            "C": "Memberikan password ke teman dekat untuk backup.",
-            "D": "Menulis password di kertas dan ditempel di laptop."
-        },
-        "poin": {
-            "A": 0,
-            "B": 4,
-            "C": 1,
-            "D": 1
+        "id": "TPACK18",
+        "dimensi": "Pedagogical Content Knowledge",
+        "pertanyaan": "Saya dapat memilih pendekatan mengajar yang tepat untuk materi tertentu.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "ETH4",
-        "dimensi": "Ethics & Safety",
-        "skenario": "Anda ingin menggunakan gambar dari Google Images untuk cover makalah yang akan dipublikasikan.",
-        "pertanyaan": "Apa yang perlu dicek?",
-        "opsi": {
-            "A": "Resolusi gambar saja.",
-            "B": "Lisensi hak cipta gambar tersebut (Creative Commons/Copyright).",
-            "C": "Warna gambar apakah sesuai tema.",
-            "D": "Tidak perlu cek apapun, semua di internet gratis."
-        },
-        "poin": {
-            "A": 2,
-            "B": 4,
-            "C": 1,
-            "D": 0
+        "id": "TPACK19",
+        "dimensi": "Pedagogical Content Knowledge",
+        "pertanyaan": "Saya dapat mengantisipasi kesulitan siswa dalam memahami materi pelajaran.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
         }
     },
     {
-        "id": "ETH5",
-        "dimensi": "Ethics & Safety",
-        "skenario": "Di grup angkatan, terjadi perdebatan panas yang mengarah pada cyberbullying terhadap salah satu mahasiswa.",
-        "pertanyaan": "Peran Anda sebagai warga digital yang baik?",
-        "opsi": {
-            "A": "Ikut memanas-manasi suasana (kompor).",
-            "B": "Menjadi penengah atau mengingatkan untuk berdiskusi dengan kepala dingin.",
-            "C": "Keluar dari grup (left group) segera.",
-            "D": "Menonton saja (silent reader) dan menertawakan."
-        },
-        "poin": {
-            "A": 0,
-            "B": 4,
-            "C": 2,
-            "D": 1
+        "id": "TPACK20",
+        "dimensi": "Pedagogical Content Knowledge",
+        "pertanyaan": "Saya mampu mengevaluasi pemahaman siswa terhadap materi pelajaran.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
+        }
+    },
+    {
+        "id": "TPACK21",
+        "dimensi": "AI-TPACK Integration",
+        "pertanyaan": "Saya mampu mengintegrasikan AI, strategi mengajar, dan materi pelajaran secara bersamaan.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
+        }
+    },
+    {
+        "id": "TPACK22",
+        "dimensi": "AI-TPACK Integration",
+        "pertanyaan": "Saya dapat memilih penggunaan AI yang paling tepat untuk mendukung tujuan pembelajaran.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
+        }
+    },
+    {
+        "id": "TPACK23",
+        "dimensi": "AI-TPACK Integration",
+        "pertanyaan": "Saya dapat merancang pembelajaran berbasis AI yang bermakna bagi siswa SD.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
+        }
+    },
+    {
+        "id": "PERS1",
+        "dimensi": "Persepsi Dan Kesadaran Terhadap AI",
+        "pertanyaan": "Saya percaya bahwa AI dapat meningkatkan hasil belajar siswa",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
+        }
+    },
+    {
+        "id": "PERS2",
+        "dimensi": "Persepsi Dan Kesadaran Terhadap AI",
+        "pertanyaan": "Saya menyadari bahwa AI dapat membantu personalisasi pembelajaran sesuai kebutuhan siswa.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
+        }
+    },
+    {
+        "id": "PERS3",
+        "dimensi": "Persepsi Dan Kesadaran Terhadap AI",
+        "pertanyaan": "Saya memahami bahwa penggunaan AI dapat mendukung efisiensi proses pembelajaran.",
+        "skala": {
+            "1": "Sangat Tidak Setuju",
+            "2": "Tidak Setuju",
+            "3": "Setuju",
+            "4": "Sangat Setuju"
+        }
+    },
+    {
+        "id": "KEB1",
+        "dimensi": "Kebutuhan Pengembangan Profesional",
+        "pertanyaan": "Saya merasa perlu pelatihan khusus untuk mengintegrasikan AI dalam pembelajaran.",
+        "skala": {
+            "1": "Sangat tidak setuju",
+            "2": "Tidak setuju",
+            "3": "Setuju",
+            "4": "sangat setuju"
+        }
+    },
+    {
+        "id": "KEB2",
+        "dimensi": "Kebutuhan Pengembangan Profesional",
+        "pertanyaan": "Saya membutuhkan pendampingan atau bimbingan dalam menggunakan AI di kelas.",
+        "skala": {
+            "1": "Sangat tidak setuju",
+            "2": "Tidak setuju",
+            "3": "Setuju",
+            "4": "sangat setuju"
+        }
+    },
+    {
+        "id": "KEB3",
+        "dimensi": "Kebutuhan Pengembangan Profesional",
+        "pertanyaan": "Saya memerlukan panduan praktis untuk menerapkan AI sesuai kurikulum SD.",
+        "skala": {
+            "1": "Sangat tidak setuju",
+            "2": "Tidak setuju",
+            "3": "Setuju",
+            "4": "sangat setuju"
+        }
+    },
+    {
+        "id": "TANT1",
+        "dimensi": "Tantangan Dalam Mengintegrasikan AI",
+        "pertanyaan": "Saya mengalami kesulitan dalam menyesuaikan gaya mengajar ketika menggunakan AI.",
+        "skala": {
+            "1": "Sangat tidak setuju",
+            "2": "Tidak setuju",
+            "3": "Setuju",
+            "4": "Sangat setuju"
+        }
+    },
+    {
+        "id": "TANT2",
+        "dimensi": "Tantangan Dalam Mengintegrasikan AI",
+        "pertanyaan": "Saya sering menghadapi kendala teknis saat menggunakan teknologi AI.",
+        "skala": {
+            "1": "Sangat tidak setuju",
+            "2": "Tidak setuju",
+            "3": "Setuju",
+            "4": "Sangat setuju"
+        }
+    },
+    {
+        "id": "TANT3",
+        "dimensi": "Tantangan Dalam Mengintegrasikan AI",
+        "pertanyaan": "Saya merasa dukungan sekolah terhadap penggunaan AI masih terbatas",
+        "skala": {
+            "1": "Sangat tidak setuju",
+            "2": "Tidak setuju",
+            "3": "Setuju",
+            "4": "Sangat setuju"
         }
     }
 ]
